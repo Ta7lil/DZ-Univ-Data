@@ -20,7 +20,7 @@ The data in the Json files are encoded in the UTF-8 standard, so read the files 
 
 The are the following recourse used to collect end combine the Data.
 
-* Official Goverment websites:
+* Official Government websites:
   * <https://www.mesrs.dz>
 
 ### Scraping code
