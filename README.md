@@ -35,7 +35,6 @@ The same data was stored in CSV files and JSON, in which each there is 4 files b
 
 ```json
 university:{
-
   "web_site":"The web site of the university",
   "name_ar":"The name of the university in Arabic",
   "name_fr":"The name of the university in French",
