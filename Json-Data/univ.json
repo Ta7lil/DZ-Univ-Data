@@ -1,0 +1,453 @@
+{
+    "universities": [{
+            "web_site": "http://www.univ-bechar.dz",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0637\u0627\u0647\u0631\u064a \u0645\u062d\u0645\u062f \u0628\u0634\u0627\u0631",
+            "name_fr": "Universit\u00e9 de B\u00e9char - Mohamed Tahri",
+            "name_en": "University of Bechar - Mohamed Tahri",
+            "region_ar": "\u0627\u0644\u063a\u0631\u0628",
+            "region_fr": "ouest",
+            "region_en": "west"
+        },
+        {
+            "web_site": "http://www.univ-mascara.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0645\u0635\u0637\u0641\u0649 \u0627\u0633\u0637\u0645\u0628\u0648\u0644\u064a \u0645\u0639\u0633\u0643\u0631",
+            "name_fr": "Universit\u00e9 de Mascara - Mustapha Stambouli",
+            "name_en": "University of Mascara - Mustapha Stambouli",
+            "region_ar": "\u0627\u0644\u063a\u0631\u0628",
+            "region_fr": "ouest",
+            "region_en": "west"
+        },
+        {
+            "web_site": "http://www.univ-saida.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u062f\u0643\u062a\u0648\u0631 \u0645\u0648\u0644\u0627\u064a \u0627\u0644\u0637\u0627\u0647\u0631 \u0633\u0639\u064a\u062f\u0629",
+            "name_fr": "Universit\u00e9 de Saida - Tahar Moulay",
+            "name_en": "University of Saida - Tahar Moulay",
+            "region_ar": "\u0627\u0644\u063a\u0631\u0628",
+            "region_fr": "ouest",
+            "region_en": "west"
+        },
+        {
+            "web_site": "http://www.univ-tlemcen.dz",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0623\u0628\u0648 \u0628\u0643\u0631 \u0628\u0644\u0642\u0627\u064a\u062f \u062a\u0644\u0645\u0633\u0627\u0646",
+            "name_fr": "Universit\u00e9 de Tlemcen - Abou Bekr Belkaid",
+            "name_en": "University of Tlemcen - Abou Bekr Belkaid",
+            "region_ar": "\u0627\u0644\u063a\u0631\u0628",
+            "region_fr": "ouest",
+            "region_en": "west"
+        },
+        {
+            "web_site": "http://www.univ-adrar.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u062d\u0645\u062f \u062f\u0631\u0627\u064a\u0629 \u0623\u062f\u0631\u0627\u0631",
+            "name_fr": "Universit\u00e9 d'Adrar - Ahmed Draya",
+            "name_en": "University  of Adrar - Ahmed Draya",
+            "region_ar": "\u0627\u0644\u063a\u0631\u0628",
+            "region_fr": "ouest",
+            "region_en": "west"
+        },
+        {
+            "web_site": "http://www.univ-tiaret.dz",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0628\u0646 \u062e\u0644\u062f\u0648\u0646 \u062a\u064a\u0627\u0631\u062a",
+            "name_fr": "Universit\u00e9 de Tiaret - Ibn Khaldoun",
+            "name_en": "University of Tiaret - Ibn Khaldoun",
+            "region_ar": "\u0627\u0644\u063a\u0631\u0628",
+            "region_fr": "ouest",
+            "region_en": "west"
+        },
+        {
+            "web_site": "http://www.univ-sba.dz",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u062c\u064a\u0644\u0627\u0644\u064a \u0644\u064a\u0627\u0628\u0633 \u0633\u064a\u062f\u064a \u0628\u0644\u0639\u0628\u0627\u0633",
+            "name_fr": "Universit\u00e9 Sidi Bel Abb\u00e8s - Djillali Liabes",
+            "name_en": "University Sidi Bel Abbes - Djillali Liabes",
+            "region_ar": "\u0627\u0644\u063a\u0631\u0628",
+            "region_fr": "ouest",
+            "region_en": "west"
+        },
+        {
+            "web_site": "http://www.univ-mosta.dz",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0639\u0628\u062f \u0627\u0644\u062d\u0645\u064a\u062f \u0627\u0628\u0646 \u0628\u0627\u062f\u064a\u0633 \u0645\u0633\u062a\u063a\u0627\u0646\u0645",
+            "name_fr": "Universit\u00e9 de Mostaganem - Abdelhamid Ibn Badis",
+            "name_en": "University of Mostaganem - Abdelhamid Ibn Badis",
+            "region_ar": "\u0627\u0644\u063a\u0631\u0628",
+            "region_fr": "ouest",
+            "region_en": "west"
+        },
+        {
+            "web_site": "http://www.univ-oran1.dz",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u062d\u0645\u062f \u0628\u0646 \u0628\u0644\u0629 \u0648\u0647\u0631\u0627\u0646 1 \u0627\u0644\u0633\u0627\u0646\u064a\u0629",
+            "name_fr": "Universit\u00e9d'Oran1 - Ahmed Ben Bella",
+            "name_en": "University of Oran1 - Ahmed Ben Bella",
+            "region_ar": "\u0627\u0644\u063a\u0631\u0628",
+            "region_fr": "ouest",
+            "region_en": "west"
+        },
+        {
+            "web_site": "http://www.univ-usto.dz/",
+            "name_ar": " \u062c\u0627\u0645\u0639\u0629 \u0645\u062d\u0645\u062f \u0628\u0648\u0636\u064a\u0627\u0641 \u0627\u0644\u0639\u0644\u0648\u0645 \u0648\u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627- \u0648\u0647\u0631\u0627\u0646",
+            "name_fr": "Universit\u00e9 Mohamed Boudiaf des sciences et de la technologie - Mohamed Boudiaf",
+            "name_en": "University Mohamed Boudiaf of sciences and technology - Mohamed Boudiaf",
+            "region_ar": "\u0627\u0644\u063a\u0631\u0628",
+            "region_fr": "ouest",
+            "region_en": "west"
+        },
+        {
+            "web_site": "http://www.univ-oran2.dz",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0648\u0647\u0631\u0627\u0646 2 \u0645\u062d\u0645\u062f \u0628\u0646 \u0623\u062d\u0645\u062f \u0627\u0644\u0645\u062f\u0639\u0648 \u0627\u0644\u0631\u0627\u0626\u062f \u0633\u064a \u0645\u0648\u0633\u0649",
+            "name_fr": "Universit\u00e9 d'Oran 2 - Mohamed Ben Ahmed",
+            "name_en": "University  of Oran 2 - Mohamed Ben Ahmed",
+            "region_ar": "\u0627\u0644\u063a\u0631\u0628",
+            "region_fr": "ouest",
+            "region_en": "west"
+        },
+        {
+            "web_site": "http://www.univ-bouira.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0628\u0648\u064a\u0631\u0629 - \u0622\u0643\u0644\u064a \u0645\u062d\u0646\u062f \u0623\u0648\u0644\u062d\u0627\u062c",
+            "name_fr": "Universit\u00e9 de Bouira - Akli Mohand Oulhadj",
+            "name_en": "University of Bouira - Akli Mohand Oulhadj",
+            "region_ar": "\u0627\u0644\u0648\u0633\u0637",
+            "region_fr": "centre",
+            "region_en": "center"
+        },
+        {
+            "web_site": "http://www.univ-djelfa.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u062c\u0644\u0641\u0629 - \u0632\u064a\u0627\u0646 \u0639\u0627\u0634\u0648\u0631",
+            "name_fr": "Universit\u00e9 de Djelfa - Ziane Achour",
+            "name_en": "University of Djelfa - Ziane Achour",
+            "region_ar": "\u0627\u0644\u0648\u0633\u0637",
+            "region_fr": "centre",
+            "region_en": "center"
+        },
+        {
+            "web_site": "http://www.univ-ghardaia.dz",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u063a\u0631\u062f\u0627\u064a\u0629",
+            "name_fr": "Universit\u00e9 de Ghardaia",
+            "name_en": "University of Ghardaia",
+            "region_ar": "\u0627\u0644\u0648\u0633\u0637",
+            "region_fr": "centre",
+            "region_en": "center"
+        },
+        {
+            "web_site": "http://www.univ-km.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u062e\u0645\u064a\u0633 \u0645\u0644\u064a\u0627\u0646\u0629 - \u0627\u0644\u062c\u064a\u0644\u0627\u0644\u064a \u0628\u0648\u0646\u0639\u0627\u0645\u0629",
+            "name_fr": "Universit\u00e9 de Khemis Miliana - Djilali Bounaama",
+            "name_en": "University of Khemis Miliana - Djilali Bounaama",
+            "region_ar": "\u0627\u0644\u0648\u0633\u0637",
+            "region_fr": "centre",
+            "region_en": "center"
+        },
+        {
+            "web_site": "http://www.univ-medea.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0645\u062f\u064a\u0629 - \u064a\u062d\u064a \u0641\u0627\u0631\u0633",
+            "name_fr": "Universit\u00e9 M\u00e9d\u00e9a - Yahia Far\u00e8s",
+            "name_en": "University Medea - Yahia Fares",
+            "region_ar": "\u0627\u0644\u0648\u0633\u0637",
+            "region_fr": "centre",
+            "region_en": "center"
+        },
+        {
+            "web_site": "http://www.usthb.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u062c\u0632\u0627\u0626\u0631 \u0647\u0648\u0627\u0631\u064a \u0628\u0648\u0645\u062f\u064a\u0646 \u0644\u0644\u0639\u0644\u0648\u0645 \u0648 \u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627",
+            "name_fr": "Universit\u00e9 des sciences et de la technologie d'Alger, Houari Boumedi\u00e8ne",
+            "name_en": "University of sciences and technology  of Alger, Houari Boumediene",
+            "region_ar": "\u0627\u0644\u0648\u0633\u0637",
+            "region_fr": "centre",
+            "region_en": "center"
+        },
+        {
+            "web_site": "http://www.univ-bejaia.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0628\u062c\u0627\u064a\u0629 - \u0639\u0628\u062f \u0627\u0644\u0631\u062d\u0645\u0627\u0646 \u0645\u064a\u0631\u0629",
+            "name_fr": "Universit\u00e9 de B\u00e9jaia - Abderrahmane Mira",
+            "name_en": "University of Bejaia - Abderrahmane Mira",
+            "region_ar": "\u0627\u0644\u0648\u0633\u0637",
+            "region_fr": "centre",
+            "region_en": "center"
+        },
+        {
+            "web_site": "http://www.univ-chlef.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0634\u0644\u0641 - \u062d\u0633\u064a\u0628\u0629 \u0628\u0646 \u0628\u0648\u0639\u0644\u064a",
+            "name_fr": "Universit\u00e9 de Chlef - Hassiba Benbouali",
+            "name_en": "University of Chlef - Hassiba Benbouali",
+            "region_ar": "\u0627\u0644\u0648\u0633\u0637",
+            "region_fr": "centre",
+            "region_en": "center"
+        },
+        {
+            "web_site": "http://www.univ-boumerdes.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0628\u0648\u0645\u0631\u062f\u0627\u0633 - \u0645\u062d\u0645\u062f \u0628\u0648\u0642\u0631\u0629",
+            "name_fr": "Universit\u00e9 de Boumerd\u00e8s - M'hamed Bougara",
+            "name_en": "University of Boumerdes - M'hamed Bougara",
+            "region_ar": "\u0627\u0644\u0648\u0633\u0637",
+            "region_fr": "centre",
+            "region_en": "center"
+        },
+        {
+            "web_site": "http://www.ummto.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u062a\u064a\u0632\u064a \u0648\u0632\u0648 - \u0645\u0648\u0644\u0648\u062f \u0645\u0639\u0645\u0631\u064a",
+            "name_fr": "Universit\u00e9 de Tizi Ouzou - Mouloud Maameri",
+            "name_en": "University of Tizi Ouzou - Mouloud Maameri",
+            "region_ar": "\u0627\u0644\u0648\u0633\u0637",
+            "region_fr": "centre",
+            "region_en": "center"
+        },
+        {
+            "web_site": "http://www.lagh-univ.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0623\u063a\u0648\u0627\u0637 - \u0639\u0645\u0627\u0631 \u062b\u0644\u064a\u062c\u064a",
+            "name_fr": "Universit\u00e9 de Laghouat - Amar Telidji",
+            "name_en": "University of Laghouat - Amar Telidji",
+            "region_ar": "\u0627\u0644\u0648\u0633\u0637",
+            "region_fr": "centre",
+            "region_en": "center"
+        },
+        {
+            "web_site": "http://www.univ-blida.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0628\u0644\u064a\u062f\u0629 1 - \u0633\u0639\u062f \u062f\u062d\u0644\u0628",
+            "name_fr": "Universit\u00e9 Blida 1 - Saad Dahlab",
+            "name_en": "University Blida 1 - Saad Dahlab",
+            "region_ar": "\u0627\u0644\u0648\u0633\u0637",
+            "region_fr": "centre",
+            "region_en": "center"
+        },
+        {
+            "web_site": "http://www.univ-blida2.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0628\u0644\u064a\u062f\u0629 2 - \u0644\u0648\u0646\u064a\u0633\u064a \u0639\u0644\u064a",
+            "name_fr": "Universit\u00e9 de Blida 2 - Lounici Ali",
+            "name_en": "University of Blida 2 - Lounici Ali",
+            "region_ar": "\u0627\u0644\u0648\u0633\u0637",
+            "region_fr": "centre",
+            "region_en": "center"
+        },
+        {
+            "web_site": "http://www.univ-alger.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u062c\u0632\u0627\u0626\u06311 - \u0628\u0646 \u064a\u0648\u0633\u0641 \u0628\u0646 \u062e\u062f\u0629",
+            "name_fr": "Universit\u00e9 d'Alger 1 - Benyoucef Benkhedda",
+            "name_en": "University  of Alger 1 - Benyoucef Benkhedda",
+            "region_ar": "\u0627\u0644\u0648\u0633\u0637",
+            "region_fr": "centre",
+            "region_en": "center"
+        },
+        {
+            "web_site": "http://www.univ-alger2.dz",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u062c\u0632\u0627\u0626\u0631 2 - \u0623\u0628\u0648\u0627\u0644\u0642\u0627\u0633\u0645 \u0633\u0639\u062f \u0627\u0644\u0644\u0647",
+            "name_fr": "Universit\u00e9 d'Alger 2 - Abou el Kacem Sa\u00e2dallah",
+            "name_en": "University  of Alger 2 - Abou el Kacem Sa\u00e2dallah",
+            "region_ar": "\u0627\u0644\u0648\u0633\u0637",
+            "region_fr": "centre",
+            "region_en": "center"
+        },
+        {
+            "web_site": "http://www.univ-alger3.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u062c\u0632\u0627\u0626\u06313 \u0627\u0628\u0631\u0627\u0647\u064a\u0645 \u0633\u0644\u0637\u0627\u0646 \u0634\u064a\u0628\u0648\u0637",
+            "name_fr": "Universit\u00e9 d'Alger 3 - Brahim Soltane Chaibout",
+            "name_en": "University  of Alger 3 - Brahim Soltane Chaibout",
+            "region_ar": "\u0627\u0644\u0648\u0633\u0637",
+            "region_fr": "centre",
+            "region_en": "center"
+        },
+        {
+            "web_site": "http://www.ufc.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u062a\u0643\u0648\u064a\u0646 \u0627\u0644\u0645\u062a\u0648\u0627\u0635\u0644",
+            "name_fr": "Universit\u00e9 de la Formation Continue",
+            "name_en": "University of Formation Continue",
+            "region_ar": "\u0627\u0644\u0648\u0633\u0637",
+            "region_fr": "centre",
+            "region_en": "center"
+        },
+        {
+            "web_site": "http://www.univ-jijel.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u062c\u064a\u062c\u0644 - \u0645\u062d\u0645\u062f \u0627\u0644\u0635\u062f\u064a\u0642 \u0628\u0646 \u064a\u062d\u064a",
+            "name_fr": "Universit\u00e9 de Jijel - Mohammed Seddik Ben yahia",
+            "name_en": "University of Jijel - Mohammed Seddik Ben yahia",
+            "region_ar": "\u0627\u0644\u0634\u0631\u0642",
+            "region_fr": "est",
+            "region_en": "east"
+        },
+        {
+            "web_site": "http://www.univ-tebessa.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u062a\u0628\u0633\u0629 - \u0627\u0644\u0639\u0631\u0628\u064a \u0627\u0644\u062a\u0628\u0633\u064a",
+            "name_fr": "Universit\u00e9 de T\u00e9bessa - Larbi T\u00e9bessi",
+            "name_en": "University of Tebessa - Larbi Tebessi",
+            "region_ar": "\u0627\u0644\u0634\u0631\u0642",
+            "region_fr": "est",
+            "region_en": "east"
+        },
+        {
+            "web_site": "http://www.univ-bba.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0628\u0631\u062c \u0628\u0648\u0639\u0631\u064a\u0631\u064a\u062c - \u0645\u062d\u0645\u062f \u0627\u0644\u0628\u0634\u064a\u0631 \u0627\u0644\u0627\u0628\u0631\u0627\u0647\u064a\u0645\u064a",
+            "name_fr": "Universit\u00e9 de Bordj Bou Arr\u00e9ridj - Mohamed Bachir El Ibrahimi",
+            "name_en": "University of Bordj Bou Arreridj - Mohamed Bachir El Ibrahimi",
+            "region_ar": "\u0627\u0644\u0634\u0631\u0642",
+            "region_fr": "est",
+            "region_en": "east"
+        },
+        {
+            "web_site": "http://www.univ-eltarf.dz/fr/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0637\u0627\u0631\u0641 - \u0627\u0644\u0634\u0627\u0630\u0644\u064a \u0628\u0646 \u062c\u062f\u064a\u062f",
+            "name_fr": "Universit\u00e9 d'El Tarf - Chadli Bendjedid",
+            "name_en": "University  of El Tarf - Chadli Bendjedid",
+            "region_ar": "\u0627\u0644\u0634\u0631\u0642",
+            "region_fr": "est",
+            "region_en": "east"
+        },
+        {
+            "web_site": "http://www.univ-khenchela.dz",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u062e\u0646\u0634\u0644\u0629 - \u0639\u0628\u0627\u0633 \u0644\u063a\u0631\u0648\u0631",
+            "name_fr": "Universit\u00e9 de Khenchela - Abbas Laghrour",
+            "name_en": "University of Khenchela - Abbas Laghrour",
+            "region_ar": "\u0627\u0644\u0634\u0631\u0642",
+            "region_fr": "est",
+            "region_en": "east"
+        },
+        {
+            "web_site": "http://www.univ-oeb.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0623\u0645 \u0627\u0644\u0628\u0648\u0627\u0642\u064a - \u0627\u0644\u0639\u0631\u0628\u064a \u0628\u0646 \u0645\u0647\u064a\u062f\u064a",
+            "name_fr": "Universit\u00e9 de Oum El Bouaghi - Larbi Ben M'hidi",
+            "name_en": "University of Oum El Bouaghi - Larbi Ben M'hidi",
+            "region_ar": "\u0627\u0644\u0634\u0631\u0642",
+            "region_fr": "est",
+            "region_en": "east"
+        },
+        {
+            "web_site": "http://www.univ-eloued.dz/fr/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0648\u0627\u062f\u064a - \u062d\u0645\u0629 \u0644\u062e\u0636\u0631",
+            "name_fr": "Universit\u00e9 d'El Oued - Hamma Lakhdar",
+            "name_en": "University  of El Oued - Hamma Lakhdar",
+            "region_ar": "\u0627\u0644\u0634\u0631\u0642",
+            "region_fr": "est",
+            "region_en": "east"
+        },
+        {
+            "web_site": "http://www.univ-soukahras.dz/fr/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0633\u0648\u0642 \u0623\u0647\u0631\u0627\u0633 - \u0645\u062d\u0645\u062f \u0627\u0644\u0634\u0631\u064a\u0641 \u0645\u0633\u0627\u0639\u062f\u064a\u0629",
+            "name_fr": "Universit\u00e9 de Souk Ahras - Mohammed-Ch\u00e9rif Messaadia",
+            "name_en": "University of Souk Ahras - Mohammed-Cherif Messaadia",
+            "region_ar": "\u0627\u0644\u0634\u0631\u0642",
+            "region_fr": "est",
+            "region_en": "east"
+        },
+        {
+            "web_site": "http://www.univ-annaba.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0639\u0646\u0627\u0628\u0629 - \u0628\u0627\u062c\u064a \u0645\u062e\u062a\u0627\u0631",
+            "name_fr": "Universit\u00e9 de Annaba - Badji Mokhtar",
+            "name_en": "University of Annaba - Badji Mokhtar",
+            "region_ar": "\u0627\u0644\u0634\u0631\u0642",
+            "region_fr": "est",
+            "region_en": "east"
+        },
+        {
+            "web_site": "http://www.univ-skikda.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0633\u0643\u064a\u0643\u062f\u0629 - 20 \u0623\u0648\u062a 1955",
+            "name_fr": "Universit\u00e9 du 20 Ao\u00fbt 1955 de Skikda",
+            "name_en": "University du 20 Ao\u00fbt 1955 of Skikda",
+            "region_ar": "\u0627\u0644\u0634\u0631\u0642",
+            "region_fr": "est",
+            "region_en": "east"
+        },
+        {
+            "web_site": "http://www.univ-guelma.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0642\u0627\u0644\u0645\u0629 - 08 \u0645\u0627\u064a 1945",
+            "name_fr": "Universit\u00e9 8 Mai 1945 de Guelma",
+            "name_en": "University 8 Mai 1945 of Guelma",
+            "region_ar": "\u0627\u0644\u0634\u0631\u0642",
+            "region_fr": "est",
+            "region_en": "east"
+        },
+        {
+            "web_site": "http://www.univ-batna.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0628\u0627\u062a\u0646\u0629 1 - \u0627\u0644\u062d\u0627\u062c \u0644\u062e\u0636\u0631",
+            "name_fr": "Universit\u00e9 de Batna 1 - Hadj Lakhder",
+            "name_en": "University of Batna 1 - Hadj Lakhder",
+            "region_ar": "\u0627\u0644\u0634\u0631\u0642",
+            "region_fr": "est",
+            "region_en": "east"
+        },
+        {
+            "web_site": "http://www.univ-biskra.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0628\u0633\u0643\u0631\u0629 - \u0645\u062d\u0645\u062f \u062e\u064a\u0636\u0631",
+            "name_fr": "Universit\u00e9 de Biskra - Mohamed Khider",
+            "name_en": "University of Biskra - Mohamed Khider",
+            "region_ar": "\u0627\u0644\u0634\u0631\u0642",
+            "region_fr": "est",
+            "region_en": "east"
+        },
+        {
+            "web_site": "http://www.univ-msila.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0645\u0633\u064a\u0644\u0629 - \u0645\u062d\u0645\u062f \u0628\u0648\u0636\u064a\u0627\u0641",
+            "name_fr": "Universit\u00e9 de M'sila - Mohamed Boudiaf",
+            "name_en": "University of M'sila - Mohamed Boudiaf",
+            "region_ar": "\u0627\u0644\u0634\u0631\u0642",
+            "region_fr": "est",
+            "region_en": "east"
+        },
+        {
+            "web_site": "http://www.univ-ouargla.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0648\u0631\u0642\u0644\u0629 - \u0642\u0627\u0635\u062f\u064a \u0645\u0631\u0628\u0627\u062d",
+            "name_fr": "Universit\u00e9 de Ouargla - Kasdi Merbah",
+            "name_en": "University of Ouargla - Kasdi Merbah",
+            "region_ar": "\u0627\u0644\u0634\u0631\u0642",
+            "region_fr": "est",
+            "region_en": "east"
+        },
+        {
+            "web_site": "http://www.univ-emir.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0642\u0633\u0646\u0637\u064a\u0646\u0629 \u0644\u0644\u0639\u0644\u0648\u0645 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a\u0629 \u0627\u0644\u0623\u0645\u064a\u0631 \u0639\u0628\u062f \u0627\u0644\u0642\u0627\u062f\u0631",
+            "name_fr": "Universit\u00e9 des sciences islamiques Emir Abdelkader de Constantine",
+            "name_en": "University of sciences islamiques Emir Abdelkader of Constantine",
+            "region_ar": "\u0627\u0644\u0634\u0631\u0642",
+            "region_fr": "est",
+            "region_en": "east"
+        },
+        {
+            "web_site": "http://www.univ-setif.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0633\u0637\u064a\u06411 - \u0641\u0631\u062d\u0627\u062a \u0639\u0628\u0627\u0633",
+            "name_fr": "Universit\u00e9 de S\u00e9tif 1 - Ferhat Abbas",
+            "name_en": "University of Setif 1 - Ferhat Abbas",
+            "region_ar": "\u0627\u0644\u0634\u0631\u0642",
+            "region_fr": "est",
+            "region_en": "east"
+        },
+        {
+            "web_site": "http://www.univ-setif2.dz",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0633\u0637\u064a\u06412 - \u0644\u0645\u064a\u0646 \u062f\u0628\u0627\u063a\u064a\u0646",
+            "name_fr": "Universit\u00e9 de S\u00e9tif 2 - Mohamed Lamine Debaghine",
+            "name_en": "University of Setif 2 - Mohamed Lamine Debaghine",
+            "region_ar": "\u0627\u0644\u0634\u0631\u0642",
+            "region_fr": "est",
+            "region_en": "east"
+        },
+        {
+            "web_site": "http://www.umc.edu.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0642\u0633\u0646\u0637\u064a\u0646\u06291 - \u0627\u0644\u0625\u062e\u0648\u0629 \u0645\u0646\u062a\u0648\u0631\u064a",
+            "name_fr": "Universit\u00e9 de Constantine 1 - Fr\u00e8res Mentouri",
+            "name_en": "University of Constantine 1 - Freres Mentouri",
+            "region_ar": "\u0627\u0644\u0634\u0631\u0642",
+            "region_fr": "est",
+            "region_en": "east"
+        },
+        {
+            "web_site": "http://www.univ-constantine2.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0642\u0633\u0646\u0637\u064a\u0646\u0629 2 - \u0639\u0628\u062f \u0627\u0644\u062d\u0645\u064a\u062f \u0645\u0647\u0631\u064a",
+            "name_fr": "Universit\u00e9 de Constantine 2 - Abdelhamid Mehri",
+            "name_en": "University of Constantine 2 - Abdelhamid Mehri",
+            "region_ar": "\u0627\u0644\u0634\u0631\u0642",
+            "region_fr": "est",
+            "region_en": "east"
+        },
+        {
+            "web_site": "http://www.univ-constantine3.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0642\u0633\u0646\u0637\u064a\u0646\u0629 3- \u0627\u0644\u0645\u062c\u0627\u0647\u062f \u0635\u0627\u0644\u062d \u0628\u0648\u0628\u0646\u064a\u062f\u0631",
+            "name_fr": "Universit\u00e9 de Constantine 3 -Salah Boubnider",
+            "name_en": "University of Constantine 3 -Salah Boubnider",
+            "region_ar": "\u0627\u0644\u0634\u0631\u0642",
+            "region_fr": "est",
+            "region_en": "east"
+        },
+        {
+            "web_site": "http://www.univ-batna2.dz/",
+            "name_ar": "\u062c\u0627\u0645\u0639\u0629 \u0628\u0627\u062a\u0646\u0629 2 - \u0645\u0635\u0637\u0641\u0649 \u0628\u0646 \u0628\u0648\u0644\u0639\u064a\u062f",
+            "name_fr": "Universit\u00e9 de Batna 2 - Mustapha Ben Boulaid",
+            "name_en": "University of Batna 2 - Mustapha Ben Boulaid",
+            "region_ar": "\u0627\u0644\u0634\u0631\u0642",
+            "region_fr": "est",
+            "region_en": "east"
+        }
+    ]
+}
