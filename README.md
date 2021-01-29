@@ -25,7 +25,7 @@ The are the following recourse used to collect end combine the Data.
 
 ### Scraping code
 
-This work belongs to [Herhar Fares](https://github.com/HerharFares), and if you are looking for the Scraping code, please visit the [club-collect](https://github.com/HerharFares/club-collect) repository.
+This work belongs to [Herhar Fares](https://github.com/FaresHerhar), and if you are looking for the Scraping code, please visit the [club-collect](https://github.com/FaresHerhar/club-collect) repository.
 
 ## Explaing the Data
 
