@@ -8,7 +8,7 @@ A Dataset for Algerian Universities, Institues, and College Centers. Name in Ara
 
 ### Be Aware
 
-> Modification Date
+> Last Modification Date
 
 The Data goes to ***18 April 2020***, and it has never being modified or updated since.
 
